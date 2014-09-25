@@ -13,7 +13,7 @@ The original goal was to fill the shim gap left after using [es5-shim](https://g
 Status
 ===================
 
-Alpha! The main motivation is to fill the gaps needed in projects I currently use.  Hence, there is no pressing need to pad-out the module to combat senerios I have not encountered or do not face.  The aim is to have a fully working shim for all browers after IE8 (with some maybe some basic cover for pre-IE8).  However, this is a long-term aim.
+Alpha! The main motivation is to fill the gaps needed in projects I currently use.  Hence, there is no pressing need to pad-out the module to combat senerios I have not encountered or do not face.  The aim is to have a fully working shim for all browers after IE8 (with maybe some basic cover pre-IE8).  However, this is a long-term aim.
 
 I very happy to look at pull requests and issues. I will try to give this attention and help with any issues.
 
