@@ -1,0 +1,6 @@
+{
+    "name": "XMLHttpRequest-Shim",
+    "description": "XMLHttpRequest shim standardise this object across browsers.",
+    "version": "0.0.1",
+    "main": "XMLHttpRequest.js"
+}
